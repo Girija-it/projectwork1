@@ -1,4 +1,4 @@
-**Enhanced Vehicle Detection and Traffic Density Analysis Using Fine-Tuned YOLOv8**<br/><br/>
+# Enhanced Vehicle Detection and Traffic Density Analysis Using Fine-Tuned YOLOv8<br/><br/>
 **Overview**<br/>
 This project focuses on fine-tuning the YOLOv8 model to improve vehicle detection and traffic density analysis. The objective is to create an accurate and efficient system capable of operating in real-time under challenging traffic conditions such as low lighting, aerial perspectives, and heavy congestion. This solution is designed to support modern traffic management systems with actionable insights for optimizing traffic flow.
 
